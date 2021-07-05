@@ -1,5 +1,20 @@
 <application>
   <component name="fastRequest">
+    <option name="dataList">
+      <list>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="books" />
+        </NameGroup>
+      </list>
+    </option>
     <option name="defaultDataMappingList">
       <list>
         <DataMapping>
@@ -72,6 +87,14 @@
         </DataMapping>
       </list>
     </option>
+    <option name="enableEnv" value="dev" />
+    <option name="enableFlag" value="true" />
+    <option name="enableProject" value="books" />
+    <option name="envList">
+      <list>
+        <option value="dev" />
+      </list>
+    </option>
     <option name="headerList">
       <list>
         <DataMapping>
@@ -98,9 +121,24 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="originUrl" value="" />
-        <option name="url" value="" />
+        <option name="methodType" value="GET" />
+        <option name="originUrl" value="chapterKnowledge/listKnowledgeInfoBatch" />
+        <option name="requestParamMap">
+          <map>
+            <entry key="paramData">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="url" value="/chapterKnowledge/listKnowledgeInfoBatch" />
       </ParamGroup>
+    </option>
+    <option name="projectList">
+      <list>
+        <option value="books" />
+      </list>
     </option>
     <option name="randomStringLength" value="5" />
   </component>
