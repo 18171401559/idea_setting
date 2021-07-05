@@ -14,6 +14,10 @@
           <option name="url" value="git@code.aliyun.com:29411-edu-cloud-canpoint/edu-cloud-lesson-resources.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@code.aliyun.com:29411-edu-cloud-canpoint/edu-cloud-papers.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\work\gitRepository\canpoint" />
