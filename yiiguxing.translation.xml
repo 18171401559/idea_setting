@@ -1,15 +1,25 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="752" />
+    <option name="newTranslationDialogY" value="404" />
     <histories>
+      <item value="unstoppable" />
+      <item value="unstoppa" />
+      <item value="unstopp" />
+      <item value="unstop" />
+      <item value="unsto" />
+      <item value="un" />
       <item value="DEFAULTCAPACITY EMPTY ELEMENTDATA" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622619853224" />
+    <option name="lastTrimTime" value="1625647054471" />
   </component>
 </application>
