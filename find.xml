@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\videos-v2\src\main\java\com\canpoint\videos\modules\videos\dao\ResourceKnowledgeDao.java [videos-v2]'" />
-    <option name="defaultScopeName" value="File '...\videos-v2\src\main\java\com\canpoint\videos\modules\videos\dao\ResourceKnowledgeDao.java [videos-v2]'" />
+    <option name="customScope" value="File '...\videos-v2\src\main\java\com\canpoint\videos\modules\videos\dao\impl\ResourceKnowledgeDaoImpl.java [videos-v2]'" />
+    <option name="defaultScopeName" value="File '...\videos-v2\src\main\java\com\canpoint\videos\modules\videos\dao\impl\ResourceKnowledgeDaoImpl.java [videos-v2]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\videos-v2\src\main\java\com\canpoint\videos\modules\videos\dao\ResourceKnowledgeDao.java [videos-v2]'" />
+    <option name="SEARCH_SCOPE" value="File '...\videos-v2\src\main\java\com\canpoint\videos\modules\videos\dao\impl\ResourceKnowledgeDaoImpl.java [videos-v2]'" />
   </component>
 </application>
